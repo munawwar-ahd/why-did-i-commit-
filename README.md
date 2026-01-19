@@ -92,18 +92,8 @@ This file is meant to be committed to GitHub.
 
 ---
 
-## 7. Version
 
-Version 1 (MVP)
-
-This version focuses only on:
-- Simplicity
-- Clarity
-- Daily use
-
----
-
-## 8. Possible future improvements
+## 7. Possible future improvements
 
 - Add more reflection questions
 - Generate weekly summaries
@@ -112,7 +102,7 @@ This version focuses only on:
 
 ---
 
-## 9. Final note
+## 8. Final note
 
 This project is not about perfection.
 
