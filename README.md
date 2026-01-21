@@ -1,12 +1,12 @@
 # Why Did I Commit Today?
 
-A beginner-friendly Python project for daily reflection and meaningful GitHub commits.
+A beginner-friendly Python project for daily reflection and meaningful GitHub commits
 
 ---
 
 ## 1. Overview
 
-Why Did I Commit Today? is a small command-line tool that helps you reflect on your work every day and record why you made a GitHub commit.
+Why Did I Commit Today? is a small command-line tool that helps you reflect on your work every day and record why you made a GitHub commit
 
 Each day:
 - You answer a few simple questions
@@ -17,7 +17,7 @@ Each day:
 
 ## 2. Motivation
 
-Many beginners focus on keeping a GitHub streak alive.
+Many beginners focus on keeping a GitHub streak alive
 
 This project focuses on something better:
 - Intentional commits
@@ -37,7 +37,7 @@ When you run the script, it will:
 3. Ask how the day felt  
 4. Save your answers in a Markdown file named with today’s date  
 
-Nothing more. Nothing hidden.
+Nothing more. Nothing hidden
 
 ---
 
@@ -59,7 +59,7 @@ why-did-i-commit-today/
 
 ## 5. How to run the project
 
-Make sure Python is installed.
+Make sure Python is installed
 
 From inside the project folder, run:
 
@@ -67,7 +67,7 @@ From inside the project folder, run:
 python reflect.py
 ```
 
-Answer the questions when prompted.
+Answer the questions when prompted
 
 ---
 
@@ -88,7 +88,7 @@ To stay consistent and build a habit
 Calm and satisfying
 ```
 
-This file is meant to be committed to GitHub.
+This file is meant to be committed to GitHub
 
 ---
 
@@ -104,8 +104,8 @@ This file is meant to be committed to GitHub.
 
 ## 8. Final note
 
-This project is not about perfection.
+This project is not about perfection
 
-It is about showing up once a day and being honest.
+It is about showing up once a day and being honest
 
-One meaningful commit is enough.
+One meaningful commit is enough
