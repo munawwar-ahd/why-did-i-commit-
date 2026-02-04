@@ -24,7 +24,7 @@ This project focuses on something better:
 - Honest reflection
 - Building consistency without pressure
 
-Even a small day counts, as long as it is real.
+Even a small day counts, as long as it is real
 
 ---
 
