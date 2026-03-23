@@ -108,4 +108,4 @@ This project is not about perfection
 
 It is about showing up once a day and being honest
 
-One meaningful commit is enough
+One meaningful commit is enough.
