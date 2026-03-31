@@ -28,7 +28,7 @@ Even a small day counts, as long as it is real
 
 ---
 
-## 3. What the project does
+## What the project does
 
 When you run the script, it will:
 
