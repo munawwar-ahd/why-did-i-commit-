@@ -15,7 +15,7 @@ Each day:
 
 ---
 
-## 2. Motivation
+## Motivation
 
 Many beginners focus on keeping a GitHub streak alive
 
