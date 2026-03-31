@@ -57,7 +57,7 @@ why-did-i-commit-today/
 
 ---
 
-## 5. How to run the project
+## How to run the project
 
 Make sure Python is installed
 
