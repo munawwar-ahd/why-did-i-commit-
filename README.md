@@ -102,7 +102,7 @@ This file is meant to be committed to GitHub
 
 ---
 
-## 8. Final note
+## Final note
 
 This project is not about perfection
 
