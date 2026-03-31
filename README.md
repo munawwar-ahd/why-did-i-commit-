@@ -41,7 +41,7 @@ Nothing more. Nothing hidden
 
 ---
 
-## 4. Project structure
+## Project structure
 
 ```text
 why-did-i-commit-today/
