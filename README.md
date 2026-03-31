@@ -4,7 +4,7 @@ A beginner-friendly Python project for daily reflection and meaningful GitHub co
 
 ---
 
-## 1. Overview
+## Overview
 
 Why Did I Commit Today? is a small command-line tool that helps you reflect on your work every day and record why you made a GitHub commit
 
