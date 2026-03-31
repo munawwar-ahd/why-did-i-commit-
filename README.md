@@ -71,7 +71,7 @@ Answer the questions when prompted
 
 ---
 
-## 6. Output format
+## Output format
 
 Each run creates a file inside `entries/` like this:
 
