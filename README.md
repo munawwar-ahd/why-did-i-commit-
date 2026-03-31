@@ -93,7 +93,7 @@ This file is meant to be committed to GitHub
 ---
 
 
-## 7. Possible future improvements
+## Possible future improvements
 
 - Add more reflection questions
 - Generate weekly summaries
