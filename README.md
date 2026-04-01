@@ -41,23 +41,6 @@ Nothing more. Nothing hidden
 
 ---
 
-## Project structure
-
-```text
-why-did-i-commit-today/
-├── entries/
-│   └── YYYY-MM-DD.md
-├── reflect.py
-└── README.md
-```
-
-- `reflect.py` runs the reflection
-- `entries/` stores daily reflections
-- `README.md` explains the project
-
----
-
-
 Answer the questions when prompted
 
 ---
