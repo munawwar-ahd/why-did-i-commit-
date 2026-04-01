@@ -57,15 +57,6 @@ why-did-i-commit-today/
 
 ---
 
-## How to run the project
-
-Make sure Python is installed
-
-From inside the project folder, run:
-
-```bash
-python reflect.py
-```
 
 Answer the questions when prompted
 
