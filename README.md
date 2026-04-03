@@ -1,5 +1,5 @@
 # Why Did I Commit Today?
-A python based github commit journeling
+A python based github commit journaling tracker
 
 ---
 
