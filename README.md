@@ -1,6 +1,5 @@
 # Why Did I Commit Today?
-
-A beginner-friendly Python project for daily reflection and meaningful GitHub commits
+A python based github 
 
 ---
 
